@@ -1,0 +1,17 @@
+{
+  "name": "XP Crafted",
+  "short_name": "XP Crafted",
+  "description": "Kid-made gamer art with 10% of proceeds supporting Paws 4 Autism.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#35c93f",
+  "icons": [
+    {
+      "src": "/assets/xp-crafted-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
